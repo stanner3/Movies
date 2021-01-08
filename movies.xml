@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!-- movies.xml -->
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+
+
+
+<movies_encyclopedia>
+    <movies>
+        <title>Rogue One: A Star Wars Story</title>
+        <image>rogue-one.jpg</image>
+        <review>reviews</review>
+        <review-link>full-reviews.xml#Rogue</review-link>
+        <release-date>
+            <year>2016</year>
+            <month>12</month>
+            <day>16</day>
+            <distributed>Walt Disney Pictures</distributed>
+        </release-date>
+        <genre>action, fantasy</genre>
+        
+        <rating>PG-13</rating>
+        <starring-actors>Felicity Jones, Mads Mikkelson, and Alan Tudyk</starring-actors>
+        <language></language>
+    </movies>
+     
+    <movies>
+        <title>Metropolis</title>
+        <image>metropolis.jpg</image>
+        <review>reviews</review>
+        <review-link>full -reviews.xml#Metropolis</review-link>
+        <release-date>
+            <year>1927</year>
+            <month>4</month>
+            <day>13</day>
+            <distributed></distributed>
+        </release-date>
+        <genre>science fiction</genre>
+        <rating></rating>
+        <starring-actors>Gustav Frohlich and Brigitte Helm</starring-actors>
+        <language>de</language>
+    </movies>
+    <movies>
+        <title>Eternal Sunshine of the Spotless Mind</title>
+        <image>eternal_mind.jpg</image>
+        <review>reviews</review>
+        <review-link>full-reviews.xml#Eternal</review-link>
+        <release-date>
+            <year>2004</year>
+            <month>3</month>
+            <day>9</day>
+            <distributed>Focus Features</distributed>
+        </release-date>
+        <genre>romance, science fiction</genre>
+        <rating>R</rating>
+        <starring-actors>Jim Carrey and Kate Winslet</starring-actors>
+        <language></language>
+    </movies>
+    <movies>
+        <title>Friday</title>
+        <image>friday.jpg</image>
+        <review>reviews</review>
+        <review-link>full-reviews.xml#Friday</review-link>
+        <release-date>
+            <year>1995</year>
+            <month>4</month>
+            <day>26</day>
+            <distributed>New Line Cinema</distributed>
+        </release-date>
+        <genre>drama, comedy</genre>
+        <rating>R</rating>
+        <starring-actors>Ice Cube, Chris Tucker, Nia Long, and Bernie Mac</starring-actors>
+        <language></language>
+    </movies>
+</movies_encyclopedia>
+    
+
+
+
+    
+    
+    
